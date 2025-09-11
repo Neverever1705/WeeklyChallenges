@@ -30,7 +30,6 @@ public class EvaluateAlgebra {
             String rightSide = equation.substring(indexOfEqual + 1);
             boolean xIsLeft = indexOfX < indexOfEqual;
 
-            String xNumber;
             if (xIsLeft) {
                 secondNumber = Integer.parseInt(rightSide);
                 switch (indexOfX) {
@@ -82,3 +81,4 @@ public class EvaluateAlgebra {
     }
 
 }
+
