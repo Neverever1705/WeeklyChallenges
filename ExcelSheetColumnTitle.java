@@ -1,9 +1,5 @@
 public class ExcelSheetColumnTitle {
-    private long number;
-
-
-
-
+    
     public String convertToTitle(long number) {
         StringBuilder title = new StringBuilder();
 
