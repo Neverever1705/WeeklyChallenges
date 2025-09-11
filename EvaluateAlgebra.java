@@ -7,7 +7,7 @@ public class EvaluateAlgebra {
     private int firstNumber;
     private int secondNumber;
     private boolean negativeX;
-    List<String> inputs;
+    private List<String> inputs;
 
     public EvaluateAlgebra(String input) {
         inputs = new ArrayList<>();
@@ -81,4 +81,5 @@ public class EvaluateAlgebra {
     }
 
 }
+
 
