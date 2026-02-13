@@ -1,4 +1,4 @@
-//Create a function that determines whether a string is a valid hex code.
+package dev.ldo.own_stuff.newsletter_exercise;//Create a function that determines whether a string is a valid hex code.
 
 //A hex code must begin with a pound key # and is exactly 6 characters in length.
 

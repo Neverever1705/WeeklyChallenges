@@ -1,3 +1,5 @@
+package dev.ldo.own_stuff.newsletter_exercise;
+
 public class ExcelSheetColumnTitle {
     
     public String convertToTitle(long number) {

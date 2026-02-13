@@ -1,4 +1,4 @@
-
+package dev.ldo.own_stuff.newsletter_exercise;
 
 import java.util.ArrayList;
 import java.util.List;
